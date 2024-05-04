@@ -15,3 +15,10 @@ var j = i++ // j = 0, i = 1
 
 This is an example of post increment operation.
 ```
+
+## Activity: Adding Task List
+**Todos:**
+- [x] Fork the repository
+- [x] Create a branch
+- [ ] Add and commit changes
+- [ ] Create a Pull Request
